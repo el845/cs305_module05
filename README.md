@@ -1,4 +1,4 @@
-# cs305_module05
+## cs305_module05
 Module 5 Project
 
 
@@ -23,3 +23,14 @@ Please enter an x coordinate: 30
 Please enter a y coordinate: 1
 Please enter the number of degrees to rotate by: 45
 The result is (21.920310, 20.506097)
+
+## Technologies
+*C Programming Language
+*BASH Terminal
+
+## Contributors
+* [Jiasheng Yang](https://github.com/Jiasheng-Yang)
+* [Lauren Farr](https://github.com/lkf57)
+* [Eleanor Lemish](https://github.com/el845)
+
+
