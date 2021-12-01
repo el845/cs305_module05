@@ -8,6 +8,14 @@ For this project I have added a file called rotate_point.c that when ran, allows
 
 The program then calculates the new point based on the degrees that the user entered to rotate them. 
 
+To install the program the user simply needs to download the file then open a $BASH command prompt and type: 
+
+gcc -Wall rotate_point.c -o rotate_point
+
+Then to run the program the user needs to type: 
+
+./rotate_point
+
 Example Output: 
 
 $ ./rotate_point
