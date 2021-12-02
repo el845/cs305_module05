@@ -34,3 +34,7 @@ The result is (21.920310, 20.506097)
 * [Eleanor Lemish](https://github.com/el845)
 
 --3rd test
+
+## The knowledge we learned from this program
+We learned how to use the bash and program a easy C program.
+
