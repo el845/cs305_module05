@@ -24,6 +24,13 @@ Please enter a y coordinate: 1
 Please enter the number of degrees to rotate by: 45
 The result is (21.920310, 20.506097)
 
+My contribution to the README file - Lauren Farr, lkf57:
+
+My hypothetic addition: a case to check for valid input; if the user does not input a number, they will be prompted again. 
+
+
+
+
 ## Technologies
 *C Programming Language
 *BASH Terminal
